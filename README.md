@@ -3,11 +3,11 @@ CloudNative Secure FileTransfer
 
 # Objective 
 
-* Setup secure FIPS-140 compliant file transfer to meet the baking regulatory industries compliance.
+* Setup secure FIPS-140 compliant file transfer to meet the Banking regulatory industries compliance.
 
-# Design Goals
+# Framework Goals
  * Cloud-Native by Design.
- * MicroService Based.
+ * Modular MicroService Based.
  * Docker Native.
  * Kubnernetes Deployable.
  * Go Language
