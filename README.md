@@ -10,5 +10,5 @@ CloudNative Secure FileTransfer
  * MicroService Based.
  * Docker Native.
  * Kubnernetes Deployable.
- * GoLang
+ * Go Language
  * CLI interface
